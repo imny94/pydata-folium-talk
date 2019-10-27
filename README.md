@@ -2,6 +2,8 @@
 
 This repo contains materials used for my presentation at the PyData Singapore Meetup held on the 21st October 2019 https://www.meetup.com/PyData-SG/events/265657885/
 
+Slides for the presentation is pending approval from my PR department. Sorry! ><
+
 ## Pre-requisites for Demo
 
 1. python 3.7 and above is installed
